@@ -13,7 +13,7 @@ const About = () => {
           <div></div>
           </div>
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8">
-            <div className="flex justify-center items-center">
+            <div className="flex justify-center items-center ">
               <p className="px-4 md:text-md">
                 I am Yuvaan Pradhan, currently in my third year of pursuing a
                 Computer Science and Engineering degree. I'm a passionate tech
