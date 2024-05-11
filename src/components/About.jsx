@@ -15,12 +15,14 @@ const About = () => {
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8">
             <div className="flex justify-center items-center ">
               <p className="px-4 md:text-md">
-                I am Yuvaan Pradhan, currently in my third year of pursuing a
-                Computer Science and Engineering degree. I'm a passionate tech
-                enthusiast, always eager to explore the latest advancements in
-                the world of technology. My primary area of interest lies in web
-                development, with a strong inclination towards front-end
-                development and UI/UX design.
+              I'm Yuvaan Pradhan, a Computer Science & Engineering student. I have experience in UI/UX design and web development. I'm driven to learn more technologies in the future and further expand my skills in this field
+
+
+
+
+
+
+
               </p>
             
           </div>
